@@ -5,4 +5,4 @@
 
 
 
-Sentiment classifier according to synthetic(fake-generated) twitter data. Using Python
+<p align="center">Sentiment classifier according to synthetic(fake-generated) twitter data. Using Python</p>
